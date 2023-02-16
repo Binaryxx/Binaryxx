@@ -11,7 +11,7 @@ If you are looking at this GitHub to gauge my skillset, please check:
 
     The other repositories in my GitHub are ntoes I have collected as I improve my coding skillset; feel free to browse them as it showcases concepts that I have learned and how I have internalized them, although not needed as the previously mentioned repositories should be able to showcase them more effectively.
     
-Check out the following links for more indication of my skillset:
+Check out the following links for more indication of my skillset:  
 https://www.credly.com/users/binaryxxsune
 https://www.hackerrank.com/binaryxx
 
