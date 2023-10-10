@@ -1,10 +1,11 @@
 **FOR EMPLOYERS AND RECRUITERS:**  
-Please refer to the *project-presentations* repository for a centalized location of slide presentations providing an overview of the personal projects completed. The following is the link to the repository: https://github.com/Binaryxx/project-presentations  
-
+Please refer to the *project-presentations* repository for a centalized location of slide presentations providing an overview of the personal projects completed.  
+The following is the link to the repository: https://github.com/Binaryxx/project-presentations  
+  
 Other resources to understand my background and knowledge of Python, SQL, and other technical skillsets:  
-https://www.hackerrank.com/binaryxx
-https://www.credly.com/users/binaryxxsune
-
+https://www.hackerrank.com/binaryxx  
+https://www.credly.com/users/binaryxxsune  
+  
 - 👋 Hi, I’m @Binaryxx (Binaryxx Sune)
 - 👀 I’m interested in picking up skills in the data analytics area
 - 🌱 I’m currently learning data science skills such as the basic use of Python and SQL, Python Visualization, and Python Data Analytics
